@@ -1,4 +1,4 @@
-{% set name = "topoflow-erode-d8-global-csdms" %}
+{% set name = "csdms-topoflow-erode-d8-global" %}
 {% set version = "3.4" %}
 
 package:
